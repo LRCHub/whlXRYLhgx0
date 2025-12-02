@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Bedroom Talk",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-02T13:03:02.516996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bedroom Talk",
+      "artist": "The Starting Line",
+      "has_synced": false,
+      "path": "select/01_Bedroom_Talk_The_Starting_Line.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bedroom Talk",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/02_Bedroom_Talk_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bedroom Talk",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/03_Bedroom_Talk_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bedroom Talk (Album Version)",
+      "artist": "The Starting Line",
+      "has_synced": true,
+      "path": "select/04_Bedroom_Talk_(Album_Version)_The_Starting_Line.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bedroom Talk",
+      "artist": "The Starting Line",
+      "has_synced": true,
+      "path": "select/05_Bedroom_Talk_The_Starting_Line.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bedroom Talk",
+      "artist": "The Starting Line",
+      "has_synced": true,
+      "path": "select/06_Bedroom_Talk_The_Starting_Line.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bedroom Talk (Live)",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/07_Bedroom_Talk_(Live)_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bedroom Talk",
+      "artist": "Official鬍子男dism",
+      "has_synced": true,
+      "path": "select/08_Bedroom_Talk_Official鬍子男dism.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bedroom Talk",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/09_Bedroom_Talk_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bedroom Talk",
+      "artist": "The Starting Line",
+      "has_synced": true,
+      "path": "select/10_Bedroom_Talk_The_Starting_Line.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bedroom Talk",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Bedroom_Talk_Official髭男dism.txt"
+    }
+  ]
+}
